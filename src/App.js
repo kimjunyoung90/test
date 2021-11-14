@@ -6,7 +6,9 @@ function App() {
 		<div className="App">
 			<header className="App-header">
 				<head>
-
+					<title>
+						깃 소개
+					</title>
 				</head>
 			</header>
 		</div>
