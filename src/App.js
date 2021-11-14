@@ -15,7 +15,7 @@ function App() {
 					target="_blank"
 					rel="noopener noreferrer"
 				>
-					Learn React11111111111111111
+					fetch 테스트
 				</a>
 			</header>
 		</div>
