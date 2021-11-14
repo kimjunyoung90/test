@@ -15,7 +15,8 @@ function App() {
 					target="_blank"
 					rel="noopener noreferrer"
 				>
-					fetch 테스트
+					일상적인 작업
+
 				</a>
 			</header>
 		</div>
